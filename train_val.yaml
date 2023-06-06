@@ -1,0 +1,29 @@
+train: [ 
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/11,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/12,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/13,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/14,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/15,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/19,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/21,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/22,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/23,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/24,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/29,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/30,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/35,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/36,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/38,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/47,
+]
+
+val: [
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/52,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/54,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/60,
+visem 0.2/visem tracking/visem_tracking_train_v4/Train/82,
+]
+
+nc: 3
+
+names: [ "sperm", "cluster", "small_or_pinhead"]

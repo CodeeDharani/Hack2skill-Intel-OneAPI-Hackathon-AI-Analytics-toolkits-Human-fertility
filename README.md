@@ -78,3 +78,5 @@ The provided CSV-files are:
 **Sperm Motility:** It may involve image or video analysis techniques to track and analyze the movement of sperm cells.<br />
 **Sex hormones PCA:** Similar to the Semen Principal Components Analysis, this model applies PCA to the serum levels of sex hormones to identify underlying patterns or factors within the hormone data.<br />
 **YOLOv5 of Prediction of sperm fertility:** The YOLOv5 model is applied specifically to predict or detect sperm fertility-related attributes or factors within the videos associated with the participants.
+
+<img width="1100" alt="2022-04-09_122409" src="https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/3683a662-c18e-4be1-bff7-e4a5a49ed5ca">

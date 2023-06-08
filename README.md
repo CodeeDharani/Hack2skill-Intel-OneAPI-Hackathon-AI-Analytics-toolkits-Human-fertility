@@ -37,7 +37,22 @@ The provided CSV-files are:
   
 <h2>Methodology</h2>
 
+ **Methodologies used in Intel OneAPI AI Analytics Toolkit:**
+<p>
+1.Data Preprocessing: The toolkit includes various data preprocessing techniques to clean, transform, and prepare data for AI and analytics tasks. This may involve tasks such as data normalization, feature scaling, data imputation, and handling missing values.
+
+2.Machine Learning Algorithms: The toolkit offers a variety of machine learning algorithms that can be used for tasks like classification, regression, clustering, and recommendation systems. These algorithms are implemented using optimized libraries and frameworks such as Intel Math Kernel Library (MKL) and Intel Distribution for Python (NumPy, scikit-learn, etc.).
+
+3.Deep Learning Frameworks: Intel OneAPI AI Analytics Toolkit supports popular deep learning frameworks like TensorFlow, PyTorch, and MXNet. These frameworks provide methodologies for building and training deep neural networks for tasks such as image classification, object detection, natural language processing, and more.
+
+4.Model Optimization: The toolkit includes methodologies for optimizing AI models to improve performance and efficiency. This can involve techniques like model quantization, pruning, and compression to reduce model size and inference latency without significant loss in accuracy.
+
+5.Distributed Computing: Intel OneAPI AI Analytics Toolkit leverages distributed computing techniques to accelerate AI and analytics workloads. It allows developers to distribute computations across multiple processors, nodes, or clusters, enabling faster training and inference on large datasets.
+
+6.Performance Profiling: The toolkit provides methodologies for profiling and optimizing the performance of AI and analytics workloads. Developers can analyze and identify performance bottlenecks using tools like Intel VTune Profiler to optimize CPU and memory utilization.
+
+7.Hardware Acceleration: Intel OneAPI AI Analytics Toolkit takes advantage of hardware acceleration technologies like Intel Xeon CPUs, Intel Xe GPUs, and Intel FPGA to accelerate AI and analytics tasks. It provides optimized libraries and tools to leverage these hardware accelerators efficiently.
   
-  
+  </p>
   
   

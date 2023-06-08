@@ -54,8 +54,14 @@ The provided CSV-files are:
 7.Hardware Acceleration: Intel OneAPI AI Analytics Toolkit takes advantage of hardware acceleration technologies like Intel Xeon CPUs, Intel Xe GPUs, and Intel FPGA to accelerate AI and analytics tasks. It provides optimized libraries and tools to leverage these hardware accelerators efficiently.
   
   </p>
-  [Intel](https://www.intel.in/content/www/in/en/homepage.html), [Intel OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [Intel Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html), [Intel Base toolkits](https://www.intel.in/content/www/in/en/homepage.html)
+  
+[Intel](https://www.intel.in/content/www/in/en/homepage.html), [Intel OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [Intel Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html), [Intel Base toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html),  [Intel OneAPI AI Analytics](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
+
+![download](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/ca889b8e-d042-48cb-b695-4b18edee46c8), ![H2S_Gradient_Logo](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/d822525c-4f54-43bc-ab25-ba20ced356fc)
+
   
   
   <h2>Predictive Analysis</h2>
+  
+  
   

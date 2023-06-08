@@ -60,8 +60,10 @@ The provided CSV-files are:
 ![download](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/ca889b8e-d042-48cb-b695-4b18edee46c8), ![H2S_Gradient_Logo](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/d822525c-4f54-43bc-ab25-ba20ced356fc)
 
   
-  
   <h2>Predictive Analysis</h2>
   
   
+  ![Screenshot 2023-06-06 233452](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/b15e518b-ce45-4714-ad00-59942592f35b)
+
   
+![Screenshot 2023-06-06 233838](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/85e3d053-2c59-408e-9933-9859055b6079)

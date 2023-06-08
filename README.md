@@ -54,5 +54,8 @@ The provided CSV-files are:
 7.Hardware Acceleration: Intel OneAPI AI Analytics Toolkit takes advantage of hardware acceleration technologies like Intel Xeon CPUs, Intel Xe GPUs, and Intel FPGA to accelerate AI and analytics tasks. It provides optimized libraries and tools to leverage these hardware accelerators efficiently.
   
   </p>
+  [Intel](https://www.intel.in/content/www/in/en/homepage.html), [Intel OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [Intel Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html), [Intel Base toolkits](https://www.intel.in/content/www/in/en/homepage.html)
   
+  
+  <h2>Predictive Analysis</h2>
   

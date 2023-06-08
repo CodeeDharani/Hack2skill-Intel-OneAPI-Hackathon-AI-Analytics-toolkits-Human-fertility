@@ -20,4 +20,14 @@
   
   [VISEM](https://datasets.simula.no//visem/)
   
+<p>
+  VISEM contains five CSV-files for each of the other data provided, a CSV-file with the IDs linked to each their video, and a text file containing descriptions of some of the columns of the CSV-files. One row in each CSV-file represents a participant.
 
+The provided CSV-files are:
+
+**Semen_analysis_data:** The results of standard semen analysis.<br /> 
+**Fatty_acids_spermatozoa:** The levels of several fatty acids in the spermatozoa of the participants.<br />
+**Fatty_acids_serum:** The serum levels of the fatty acids of the phospholipids (measured from the blood of the participant).<br />
+**Sex_hormones:** The serum levels of sex hormones measured in blood of the participants.<br />
+**Participant_related_data:** General information about the participants such as age, abstinence time and Body Mass Index (BMI).<br />
+**Videos:** Overview of which video-file belongs to what participant.

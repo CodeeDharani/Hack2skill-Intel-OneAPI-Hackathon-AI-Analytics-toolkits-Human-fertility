@@ -67,3 +67,14 @@ The provided CSV-files are:
 
   
 ![Screenshot 2023-06-06 233838](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/85e3d053-2c59-408e-9933-9859055b6079)
+
+
+<h2>Summary</h2>
+
+**Extraction of video:** It could involve techniques such as video processing, object detection, or tracking to extract specific data points or analyze the content of the videos.<br />
+**Prediction of sperm fertility:** This model aims to predict or assess the fertility potential of sperm samples based on the results of standard semen analysis.<br />
+**Semen Principal Components Analysis:** This model involves performing Principal Component Analysis (PCA) on the semen analysis data.<br />
+**Sex hormones:** This model focuses on analyzing the serum levels of sex hormones measured in the blood of the participants.<br />
+**Sperm Motility:** It may involve image or video analysis techniques to track and analyze the movement of sperm cells.<br />
+**Sex hormones PCA:** Similar to the Semen Principal Components Analysis, this model applies PCA to the serum levels of sex hormones to identify underlying patterns or factors within the hormone data.<br />
+**YOLOv5 of Prediction of sperm fertility:** The YOLOv5 model is applied specifically to predict or detect sperm fertility-related attributes or factors within the videos associated with the participants.

@@ -1,25 +1,21 @@
 <div align="center">
-  <center><h1>HUMAN FERTILITY</h1></center>
+   <centre><h1>Team Name:VALHALLA</h1></centre><br />
+  <center><h2>HUMAN FERTILITY</h2></center>
 </div>
-
-<br/>
 <div align="center">
   <centre><h2>Detection and Prediction of Human Fertility(Human Spermatozoa)</h2></centre>
 
 </div>
-
-<br/>
-<div align="center">
-  <centre><h2>Team Name:VALHALLA</h2></centre>
-<br/>
-  
-</div>
-
+<br />
 <h2>Team Members: </h2>
   <h4>1) Mr.M.KRISHNAKUMAR M.E(Aero)
   <h4>2) N.DHARANIDHARAN B.TECH(AI&DS)</h4>
   <h4>3) A.DEEPAK B.TECH(AI&DS)</h4>
-
+  
+<br />
+  
+  **Youtube Demo Video link:**[Detection and Prediction of Human Fertility](https://youtu.be/eLFubbPrXgQ)<br />
+  **Medium link:** [ prediction of Human Ferility](https://youtu.be/eLFubbPrXgQ)
 
 ![vecteezy_the-sperm-is-directed-towards-the-egg-to-do-human-mating-a_6666251_44 (2)](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/9a321102-3897-420a-8ba1-f187bfbd5ad3)
 

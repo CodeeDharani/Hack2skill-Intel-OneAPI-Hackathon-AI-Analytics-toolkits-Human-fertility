@@ -1,25 +1,31 @@
 <div align="center">
    <centre><h1>Team Name:VALHALLA</h1></centre><br />
-<centre><h1>Meidcal Image Processing</h1></centre><br />
-  <center><h2>HUMAN FERTILITY</h2></center>
-</div>
-<div align="center">
-  <centre><h2>Detection and Prediction of Human Fertility(Human Spermatozoa)</h2></centre>
-
-</div>
-<br />
+<centre><h1>Medical Image Processing</h1></centre>
+ <img width="500" alt="2022-04-09_122409" src="https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/6ef83656-060c-4e54-86de-964bc64a1b0c"> 
+   </div>
 <h2>Team Members: </h2>
   <h4>1) Mr.M.KRISHNAKUMAR M.E(Aero)
   <h4>2) N.DHARANIDHARAN B.TECH(AI&DS)</h4>
   <h4>3) A.DEEPAK B.TECH(AI&DS)</h4>
-  
-<br />
    
-   
+   <br />
    
   **Team Leader EMail-ID:**[ramanandharani2003@gmail.com](www.ramanandharani2003@gmail.com)<br />
   **Youtube Demo Video link:**[Detection and Prediction of Human Fertility](https://youtu.be/eLFubbPrXgQ)<br />
   **Medium link:** [ prediction of Human Ferility](https://youtu.be/eLFubbPrXgQ)
+   
+   
+   <br />
+   
+   
+<div align="center">
+     <center><h1>HUMAN FERTILITY</h1></center><br />
+  <centre><h2>Detection and Prediction of Human Fertility(Human Spermatozoa)</h2></centre>
+
+</div>
+
+  
+
 
 ![vecteezy_the-sperm-is-directed-towards-the-egg-to-do-human-mating-a_6666251_44 (2)](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/9a321102-3897-420a-8ba1-f187bfbd5ad3)
 
@@ -68,7 +74,7 @@ The provided CSV-files are:
   
   </p>
   
-[Intel](https://www.intel.in/content/www/in/en/homepage.html), [Intel OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html), [Intel Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html), [Intel Base toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html),  [Intel OneAPI AI Analytics](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
+[Intel](https://www.intel.in/content/www/in/en/homepage.html) [Intel OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html) [Intel Devcloud](https://www.intel.com/content/www/us/en/developer/tools/devcloud/overview.html) [Intel Base toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/base-toolkit.html),  [Intel OneAPI AI Analytics](https://www.intel.com/content/www/us/en/developer/tools/oneapi/ai-analytics-toolkit.html)
 
 ![download](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/ca889b8e-d042-48cb-b695-4b18edee46c8), ![H2S_Gradient_Logo](https://github.com/CodeeDharani/Hack2skill-Intel-OneAPI-Hackathon-AI-Analytics-toolkits-Human-fertility/assets/110709707/d822525c-4f54-43bc-ab25-ba20ced356fc)
 

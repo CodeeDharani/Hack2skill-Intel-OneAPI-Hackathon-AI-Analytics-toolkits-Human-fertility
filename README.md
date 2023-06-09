@@ -12,7 +12,7 @@
    
   **Team Leader EMail-ID:**[ramanandharani2003@gmail.com](www.ramanandharani2003@gmail.com)<br />
   **Youtube Demo Video link:**[Detection and Prediction of Human Fertility](https://youtu.be/eLFubbPrXgQ)<br />
-  **Medium link:** [ prediction of Human Ferility](https://youtu.be/eLFubbPrXgQ)
+  **Medium link:** [ prediction of Human Ferility](https://medium.com/@ramanandharani2003/prediction-of-human-fertility-using-ai-8cddd2fd4f4e)
    
    
    <br />
